@@ -1,9 +1,4 @@
-# 5itbao 
+# ÎÒ°®Ìı±¦°Â
+# 
 
-
-echo # 5itbao >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/xciceboy/5itbao.git
-git push -u origin master
+ÍøÕ¾µØÖ·£º[ÎÒ°®Ìı±¦°Â](http://www.5itbao.cn)
