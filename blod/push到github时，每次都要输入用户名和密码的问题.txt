@@ -1,0 +1,9 @@
+push is require username and passworld,
+beacse https commit type,so it is ssh.
+input  git remote -v
+get https://.....
+
+git remote rm origin
+git remote add origin git@github.com:<username>/<projectname>.git
+git push origin
+
