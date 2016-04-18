@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 http://www.5itbao.cn
-=======
-#5itbao.cn
->>>>>>> 5e88fc5bca258fccda6e981be092b558dd0cb05f
